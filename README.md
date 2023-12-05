@@ -26,39 +26,40 @@ Hello, I'm Franco Nieto, a Physics undergraduate at Universidad de Buenos Aires 
 - 🎓 Education: Physics Undergraduate, Universidad de Buenos Aires
 
 ## Languages
-- English
-
+- English, C2 certified by Cambridge University certificate
+- French, B2 certified by Alliance Francaise, Buenos Aires.
+- Spanish, native
 
 ## Coding Skills
 - **Languages:** Python and C++
-- **Technologies:** [List of relevant technologies/tools]
+- **Technologies:** Data Analysis with Pandas and SQL, Machine Learning with PyTorch and Tensorflow
 
-## Projects
+## Repositories
 ### Data Analysis for Advanced Physics Laboratory
-Brief description of the project, its purpose, and your role in it.
+Some of the codes I've developed to help me analyse data on the university's lab.
 
-GitHub Repository: [Link to the GitHub repository]
+<!--GitHub Repository: [Link to the GitHub repository]-->
 
 ### Statistical Methods for Experimental Physics
-Brief description of the project, its purpose, and your role in it.
+University course at UBA about Statistics, Monte Carlo simulations and hypothesis testing.
 
-GitHub Repository: [Link to the GitHub repository]
+<!--GitHub Repository: [Link to the GitHub repository]-->
 
-### Neural Networks
-Brief description of the project, its purpose, and your role in it.
+### Neural Networks at UNC
+University course at UNC about Neural Networks and Machine Learning.
 
-GitHub Repository: [Link to the GitHub repository]
+<!--GitHub Repository: [Link to the GitHub repository]-->
 
 ### Simulations
-Brief description of the project, its purpose, and your role in it.
+Physics simulations ranging from electronics to fluid mechanics.
 
-GitHub Repository: [Link to the GitHub repository]
+<!--GitHub Repository: [Link to the GitHub repository]-->
 
 ## Coding Courses
-- [Course Name 1] - [Platform]
-- [Course Name 2] - [Platform]
+- Python for Machine Learning & Data Science, Jose Portilla - Udemy
+- Bayesian Inteference Workshop - Universidad de San Martín
 
 ## Contact
 - 📧 Email: franconicolasnieto@gmail.com  
-- 🐦 Twitter: [@YourTwitterHandle]
+<!--- 🐦 Twitter: [@YourTwitterHandle]-->
 
