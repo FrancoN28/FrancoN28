@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 Hello, I'm Franco Nieto, a Physics undergraduate at Universidad de Buenos Aires with a passion for understanding the beautiful phenomena in our universe. I'm always looking for new challenges and I love learning about fields that take me out of my comfort zone. I've completed coding courses and enjoy exploring the intersection of physics and data science.
+Disclamer: this site is under construction, I have many things yet to upload. 
 
 ## About Me
 - 🌍 Location: Ciudad de Buenos Aires, Argentina
